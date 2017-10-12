@@ -3,7 +3,6 @@
 //Created: 10/1/17
 //Last updated: 10/11/17
 
-//Based on code from NICK K. Thanks man.
 
 #include <msp430f5529.h>
 
