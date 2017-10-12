@@ -1,3 +1,8 @@
+//Button Interrupt on the MSP430FR5994
+//Jessica Wozniak
+//Created: 10/1/17
+//Last updated: 10/11/17
+
 #include <msp430FR5994.h>
 
 #define LED1 BIT0
