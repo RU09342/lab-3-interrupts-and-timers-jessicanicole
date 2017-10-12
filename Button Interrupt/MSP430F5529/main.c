@@ -1,4 +1,4 @@
-//Software PWM on the MSP430F5529
+//Button Interrupt on the MSP430F5529
 //Jessica Wozniak
 //Created: 10/1/17
 //Last updated: 10/11/17
