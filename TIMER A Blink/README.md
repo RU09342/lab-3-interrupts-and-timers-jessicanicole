@@ -3,7 +3,7 @@
 * Created: October 4, 2017
 * Last updated: October 8, 2017
 
-##Libraries Used
+## Libraries Used
 * <msp430.h>
 
 ## Compatability:
