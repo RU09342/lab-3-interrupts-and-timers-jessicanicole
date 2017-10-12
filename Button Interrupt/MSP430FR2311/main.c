@@ -1,4 +1,4 @@
-//Button Based Delay on the MSP430G2553
+//Button Interrupt on the MSP430G2553
 //Jessica Wozniak
 //Created: 10/1/17
 //Last updated: 10/5/17
