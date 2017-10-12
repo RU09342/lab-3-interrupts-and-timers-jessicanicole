@@ -1,4 +1,4 @@
-//Button Based Delay on the MSP430F5529
+//Button Based Delay on the MSP430FR2311
 //Jessica Wozniak
 //Created: 10/5/17
 //Last updated: 10/7/17
